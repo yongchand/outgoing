@@ -24,11 +24,10 @@ export function CallToAction() {
             Get started today
           </h2>
           <p className="mt-4 text-lg tracking-tight text-white">
-            The best perk is freedom. Both for you and your employees. 
-            Don't hassle with visas so everyone can focus on more important things.
+            Scehdule a 30-minute product demo with expert Q&A
           </p>
           <Button href="https://calendly.com/startnomadlife/30min" color="white" className="mt-10">
-            Get started today
+            Book for demo
           </Button>
         </div>
       </Container>

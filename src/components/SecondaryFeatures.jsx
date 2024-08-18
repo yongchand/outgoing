@@ -7,9 +7,9 @@ import { ArrowPathIcon, AdjustmentsHorizontalIcon, LightBulbIcon } from '@heroic
 import clsx from 'clsx'
 
 import { Container } from '@/components/Container'
-import screenshotVisaProcessing from '@/images/screenshots/visaprocessing.png'
-import screenshotAlignment from '@/images/screenshots/alignment.png'
-import screenshotExploration from '@/images/screenshots/exploration.png'
+import screenshotVisaProcessing from '@/images/screenshots/visaprocessing.jpg'
+import screenshotAlignment from '@/images/screenshots/alignment.jpg'
+import screenshotExploration from '@/images/screenshots/exploration.jpg'
 
 const features = [
   {
