@@ -86,7 +86,7 @@ export function Header() {
             </Link>
           </div>
           <div className="flex items-center gap-x-5 md:gap-x-8">
-            <Button href="https://calendly.com/startnomadlife/30min" color="purple">
+            <Button href="https://calendly.com/hello-outgoinghr/30min" color="purple">
               <span>
                 Get started <span className="hidden lg:inline">today</span>
               </span>

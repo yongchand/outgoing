@@ -15,7 +15,7 @@ export default function PrivatePolicy() {
           <div className="text-3xl"> Date of Revision: [07/2024] </div>
           <div className="text-3xl"> Introduction </div>
           <p> This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Website and tells You about Your privacy rights and how the law protects You. </p>
-          <p> Outgoing (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) uses Your Personal data to provide and improve www.outgoing.com (“Website”). By using the Website, You agree to the collection and use of information in accordance with this Privacy Policy. </p>
+          <p> Outgoing (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) uses Your Personal data to provide and improve www.outgoinghr.com (“Website”). By using the Website, You agree to the collection and use of information in accordance with this Privacy Policy. </p>
           <div className="text-3xl"> 1. Collecting and Using Your Personal Data </div>
           <div className="text-2xl"> 1.1. Types of Data Collected </div>
           <div className="text-xl"> a. Personal Data </div>
@@ -92,7 +92,7 @@ export default function PrivatePolicy() {
           <p> We will let You know via email and/or a prominent notice on Our Website, prior to the change becoming effective and update the &ldquo;Last updated&rdquo; date at the top of this Privacy Policy. </p>
           <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page. </p>
           <div className="text-3xl"> 10. Contact Us </div>
-          <p> If you have any questions about these Terms or the Website, please contact us at support@startnomadlife.com. We will make our best efforts to respond to your inquiries promptly. </p>
+          <p> If you have any questions about these Terms or the Website, please contact us at hello@outgoing.hr. We will make our best efforts to respond to your inquiries promptly. </p>
         </div>
       </div>
       </Container>

@@ -26,7 +26,7 @@ export function CallToAction() {
           <p className="mt-4 text-lg tracking-tight text-white">
             Scehdule a 30-minute product demo with expert Q&A
           </p>
-          <Button href="https://calendly.com/startnomadlife/30min" color="white" className="mt-10">
+          <Button href="https://calendly.com/hello-outgoinghr/30min" color="white" className="mt-10">
             Book for demo
           </Button>
         </div>

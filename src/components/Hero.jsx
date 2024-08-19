@@ -35,7 +35,7 @@ export function Hero() {
           Let your employees work anywhere around the world. Don't lose track of them and their visas. 
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="https://calendly.com/startnomadlife/30min">Book for a call</Button>
+        <Button href="https://calendly.com/hello-outgoinghr/30min">Book for a call</Button>
       </div>
       <div className="pt-12 items-center" >
           <div

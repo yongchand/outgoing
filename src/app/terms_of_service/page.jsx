@@ -14,7 +14,7 @@ export default function TermsOfService() {
                 <div className="prose mx-auto max-w-5xl rounded-sm bg-white py-12 px-4 shadow-md sm:px-16 space-y-4">
                     <div className="text-4xl font-extrabold"> Terms of Service </div>
                     <div className="text-3xl"> [07/2024] </div>
-                    <p> These terms and conditions (&ldquo;Terms&rdquo;) govern your use of the Website located at www.outgoing.com (&ldquo;Website&rdquo;), operated by Outgoing (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;). Please read these Terms carefully before using the Website. </p>
+                    <p> These terms and conditions (&ldquo;Terms&rdquo;) govern your use of the Website located at www.outgoinghr.com (&ldquo;Website&rdquo;), operated by Outgoing (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;). Please read these Terms carefully before using the Website. </p>
                     <div className="text-2xl"> 1. Acceptance of Terms </div>
                     <p> 1.1 By accessing or using the Website, you agree to be bound by these Terms. If you do not agree with any part of these Terms, you must not use the Website. </p>
                     <div className="text-2xl"> 2. User Accounts </div>
@@ -49,7 +49,7 @@ export default function TermsOfService() {
                     <p> We will let You know via email and/or a prominent notice on Our Website, prior to the change becoming effective and update the &ldquo;Last updated&rdquo; date at the top of this Terms of Service. </p>
                     <p> You are advised to review these Terms periodically for any changes. Changes to Terms are effective when they are posted on this page. </p>
                     <div className="text-2xl"> 8. Contact Us </div>
-                    <p> If you have any questions about these Terms or the Website, please contact us at support@startnomadlifecom. We will make our best efforts to respond to your inquiries promptly. </p>
+                    <p> If you have any questions about these Terms or the Website, please contact us at hello@outgoing.hr. We will make our best efforts to respond to your inquiries promptly. </p>
                 </div>
             </div>
             </Container>
